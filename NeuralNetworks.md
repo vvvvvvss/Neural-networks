@@ -50,7 +50,7 @@ model.compile(optimizer='adam',
               metrics=['accuracy'])       
 #Display the model summary   
 model.summary()`   
-#Artificial Neural Networks (ANN)
+# Artificial Neural Networks (ANN)   
 Artificial Neural Networks contain artificial neurons which are called units. These units are arranged in a series of layers that together constitute the whole Artificial Neural Network in a system.
 
 Similar to CNNs, Artificial Neural Network has an input layer, an output layer as well as hidden layers. The input layer receives data from the outside world which the neural network needs to analyze or learn about. Then this data passes through one or multiple hidden layers that transform the input into data that is valuable for the output layer. Finally, the output layer provides an output in the form of a response of the Artificial Neural Networks to input data provided.
